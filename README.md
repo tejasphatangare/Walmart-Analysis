@@ -1,5 +1,3 @@
-# Walmart Analysis
-
 ## Overview
 
 This repository contains a comprehensive analysis of Walmart's sales data using Python, SQL, and Power BI. The project aims to derive actionable insights that can inform strategic decision-making and drive business growth.
